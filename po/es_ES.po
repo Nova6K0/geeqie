@@ -15,12 +15,12 @@ msgstr ""
 "Project-Id-Version: geeqie-1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-23 11:12+0000\n"
-"PO-Revision-Date: 2024-08-12 18:05+0200\n"
-"Last-Translator: Tino <nova6k0@gmail.com>\n"
+"PO-Revision-Date: 2024-10-08 16:18+0200\n"
+"Last-Translator: Tino Gómez <nova6k0@gmail.com>\n"
 "Language-Team: Spanish <kde-i18n-doc@kde.org>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.11.70\n"
@@ -39,9 +39,10 @@ msgid ""
 "be used as a simple, fast, database-free image viewer, but equally it can be "
 "used to manage large collections of images."
 msgstr ""
-"Geeqie es un visor de imágenes ligero para Linux, BSD y compatibles. "
-"Puede ser usado como una sencilla, y rápida, base de datos y  como visor. Pero"
-" igualmente se puede usar para catalogar grandes colecciones de imágenes."
+"Geeqie es un visor de imágenes liviano para Linux, BSD y compatibles. "
+"Puede ser usado como una sencilla, y rápida, base de datos y como visor. Pero"
+" de la misma forma, se puede usar para catalogar grandes colecciones de imágen"
+"es."
 
 #: org.geeqie.Geeqie.appdata.xml.in:11
 msgid ""
@@ -52,16 +53,15 @@ msgid ""
 "easily handled using a combination of Geeqie's flexible Keyword facility and "
 "powerful Image searches."
 msgstr ""
-"Geeqie es un visor de imágenes que hace que la navegación de las mismas, sea f"
-"ácil. "
-"Las imágenes pueden ser vistas, en forma de miniaturas, en múltiples ventanas "
-"o a "
-"pantalla completa. Geeqie también permite gestionar imágenes, con funciones co"
-"mo "
-"copiar, move, renombrar, y borrar, solo pulsando un botón. Colecciones extensa"
-"s de "
-"imágenes se pueden gestionar, con el sistema especial de palabras clave, y bús"
-"quedas."
+"Geeqie es un visor de imágenes, qué hace que la navegación de las mismas sea "
+"sencilla. Las imágenes pueden ser vistas, en forma de miniaturas, en múltiples"
+" ventanas "
+"o a pantalla completa. Geeqie también permite gestionar imágenes, con funcione"
+"s co"
+"mo; copiar, mover, renombrar, y borrar, tan solo pulsando un botón. Coleccione"
+"s "
+"extensas de imágenes se pueden gestionar, con el sistema especial de palabras "
+"clave, y búsquedas."
 
 #: org.geeqie.Geeqie.appdata.xml.in:12
 msgid ""
@@ -72,16 +72,17 @@ msgid ""
 "display. There is no need to import images into Geeqie - simply point Geeqie "
 "to a folder containing images, and your data will be displayed."
 msgstr ""
-"Las colecciones de imágenes pueden ser mejoradas con el buscador de imágenes "
-"duplicadas. Geeqie es ideal, para presentaciones. Con la característica de pas"
-"e de "
-"diapositivas, y Geeqie también puede ser remotamente controlado, con scripts d"
-"e "
-"terminal. Varios tipos de información, velocidad de captura, descripción, pued"
-"en "
-"superponerse al ver la imagen. No es necesario importar ninguna imagen en Geeq"
-"ie "
-"- simplemente apunta a una carpeta, que contenga imágenes, y se podrán ver."
+"El buscador de duplicados que se incorpora, permite refinar las Colecciones de"
+" "
+"imágenes. Geeqie es ideal, también para presentaciones. Ya que incorpora la "
+"función de «Pase de diapositivas». Así, de la misma manera, puede ser controla"
+"do "
+"mediante scripts de terminal. Se puede ver información superpuesta de distinto"
+" tipo; "
+"velocidad de captura, descripción, . No es necesario importar ninguna imagen, "
+"con tan. "
+"solo apuntar a una carpeta, se pueden ver los archivos de imagen, qué esta con"
+"tiene."
 
 #: org.geeqie.Geeqie.appdata.xml.in:32
 msgid "image"
@@ -109,7 +110,7 @@ msgstr "Vea y gestione imágenes"
 
 #: org.geeqie.Geeqie.desktop.in:16
 msgid "Picture;Slideshow;Graphics;"
-msgstr "Fotos;PaseDiapositivas;Gráficos;"
+msgstr "Fotos;Diapositivas;Gráficos;"
 
 #: plugins/camera-import/org.geeqie.camera-import.desktop.in:5
 msgid "Camera import"
@@ -117,7 +118,7 @@ msgstr "Importar desde cámara"
 
 #: plugins/camera-import/org.geeqie.camera-import.desktop.in:6
 msgid "Import all images from camera"
-msgstr "Importar todas las imágenes desde la cámara."
+msgstr "Importar todas las imágenes de la cámara."
 
 #: plugins/export-jpeg/org.geeqie.export-jpeg.desktop.in:5
 msgid "Export jpeg"
@@ -125,7 +126,7 @@ msgstr "Exportar JPEG"
 
 #: plugins/export-jpeg/org.geeqie.export-jpeg.desktop.in:6
 msgid "Extract embedded jpegs from a raw file"
-msgstr "Extraer jpegs incrustados desde un archivo RAW."
+msgstr "Extraer JPGEs incrustados desde un archivo RAW."
 
 #: plugins/image-crop/org.geeqie.image-crop.desktop.in:5
 msgid "Image crop"
@@ -137,11 +138,11 @@ msgstr "Recortar área de imagen"
 
 #: plugins/open-with/org.geeqie.open-with.desktop.in:5
 msgid "Open With"
-msgstr "Abrir con"
+msgstr "Abrir archivo con"
 
 #: plugins/open-with/org.geeqie.open-with.desktop.in:6
 msgid "Call the gtk application chooser dialog"
-msgstr "Llamar al selector de aplicaciones"
+msgstr "Llamar al selector de aplicaciones GTK"
 
 #: plugins/org.geeqie.template.desktop.in:10
 msgid "Template"
@@ -157,7 +158,7 @@ msgstr "Ver imagen aleatoria desde Colecciones y actual carpeta"
 
 #: plugins/resize-image/org.geeqie.resize-image.desktop.in:5
 msgid "Resize image"
-msgstr "Re-escalar tamaño"
+msgstr "Re-escalar imagen"
 
 #: plugins/resize-image/org.geeqie.resize-image.desktop.in:6
 msgid "Downsize an image"
@@ -169,7 +170,7 @@ msgstr "Aplicar orientación al contenido de imagen"
 
 #: plugins/symlink/org.geeqie.symlink.desktop.in:5
 msgid "Symlink"
-msgstr "Enlace simbólico"
+msgstr "Enl.simbólico"
 
 #: plugins/tethered-photography/org.geeqie.tethered-photography.desktop.in:5
 msgid "Tethered photography"
@@ -220,7 +221,7 @@ msgstr "Abrir Archivo - No se pudo crear el directorio:"
 
 #: src/archives.cc:192 src/archives.cc:204
 msgid "Open Archive - Cannot change directory to: "
-msgstr "Abrir Archivo - No se ha podido cambiar a:"
+msgstr "Abrir Archivo - No ha sido posible cambiar a:"
 
 #: src/archives.cc:192 src/archives.cc:204
 msgid ""
@@ -232,7 +233,7 @@ msgstr ""
 
 #: src/archives.cc:222
 msgid "Warning: libarchive not installed"
-msgstr "Atención: libarchive no está instalado"
+msgstr "Atención: «libarchive» no está instalado"
 
 #: src/bar.cc:208
 msgid "Histogram"
@@ -252,7 +253,7 @@ msgstr "Comentario"
 
 #: src/bar.cc:212 src/preferences.cc:2084
 msgid "Star Rating"
-msgstr "Calificación"
+msgstr "Estrellas"
 
 #: src/bar.cc:213
 msgid "Headline"
@@ -272,7 +273,7 @@ msgstr "Ubicación y GPS"
 
 #: src/bar.cc:218 src/exif.cc:337
 msgid "Copyright"
-msgstr "Copyright"
+msgstr "Derechos"
 
 #: src/bar.cc:220 src/bar-gps.cc:1054
 msgid "GPS Map"
@@ -365,7 +366,7 @@ msgstr "Copiar «%s»"
 
 #: src/bar-exif.cc:685
 msgid "Show hidden entries"
-msgstr "Mostrar elementos ocultos"
+msgstr "Mostrar entradas ocultas"
 
 #: src/bar-gps.cc:206
 #, c-format
@@ -427,7 +428,7 @@ msgstr "Geo-codificar imágenes"
 
 #: src/bar-gps.cc:235
 msgid "Write lat/long to meta-data?"
-msgstr "¿Escribir la latitud/longitud en los metadatos?"
+msgstr "¿Escribir latitud/longitud en los metadatos?"
 
 #: src/bar-gps.cc:238 src/collect.cc:1259 src/collect-dlg.cc:153
 #: src/desktop-file.cc:240 src/dupe.cc:5365
@@ -450,18 +451,18 @@ msgstr "Cargando mapa"
 
 #: src/bar-gps.cc:837
 msgid "Enable markers"
-msgstr "Habilitar marcadores"
+msgstr "Activar marcadores"
 
 #: src/bar-gps.cc:839
 msgid "Centre map on marker"
-msgstr "Centrar mapa siguiendo la marca"
+msgstr "Centrar mapa desde el marcador"
 
 #: src/bar-gps.cc:861
 msgid ""
 "Move map centre to marker\n"
 " is disabled"
 msgstr ""
-"Mover el centro del mapa al marcador\n"
+"Mover centro del mapa al marcador\n"
 "está deshabilitado"
 
 #: src/bar-gps.cc:866
@@ -469,7 +470,7 @@ msgid ""
 "Move map centre to marker\n"
 " is enabled"
 msgstr ""
-"Mover el centro del mapa al marcador\n"
+"Mover centro del mapa al marcador\n"
 "está habilitado"
 
 #: src/bar-gps.cc:870
@@ -486,7 +487,7 @@ msgstr "Aumentar"
 
 #: src/bar-gps.cc:1000
 msgid "Zoom level"
-msgstr "Nivel de aumento"
+msgstr "Nivel de Aumento"
 
 #: src/bar-histogram.cc:243 src/layout-util.cc:2845
 msgid "Histogram on _Red"
@@ -494,11 +495,11 @@ msgstr "Histograma sobre _Rojo"
 
 #: src/bar-histogram.cc:244 src/layout-util.cc:2843
 msgid "Histogram on _Green"
-msgstr "Histograma sobre (_G) Verde"
+msgstr "Histograma sobre Verde (_G)"
 
 #: src/bar-histogram.cc:245 src/layout-util.cc:2842
 msgid "Histogram on _Blue"
-msgstr "Histograma sobre (_B) Azul"
+msgstr "Histograma sobre Azul (_B)"
 
 #: src/bar-histogram.cc:246 src/layout-util.cc:2844
 msgid "_Histogram on RGB"
@@ -506,7 +507,7 @@ msgstr "_Histograma RGB"
 
 #: src/bar-histogram.cc:247 src/layout-util.cc:2846
 msgid "Histogram on _Value"
-msgstr "Histograma sobre _Valor"
+msgstr "Histograma según _Valor"
 
 #: src/bar-histogram.cc:251 src/layout-util.cc:2850
 msgid "Li_near Histogram"
@@ -547,11 +548,11 @@ msgstr "Tipo de palabra clave:"
 
 #: src/bar-keywords.cc:979
 msgid "Active keyword"
-msgstr "Activar palabra clave"
+msgstr "Palabra clave activa"
 
 #: src/bar-keywords.cc:982
 msgid "Helper"
-msgstr "Ayudante"
+msgstr "Asistente"
 
 #: src/bar-keywords.cc:1053
 msgid "Marks Keywords"
@@ -642,11 +643,11 @@ msgstr "Error: Imposible escribir la lista de palabras clave a: %s\n"
 
 #: src/bar-rating.cc:192 src/bar-rating.cc:194
 msgid "Rejected"
-msgstr "Rechazar"
+msgstr "Rechazado"
 
 #: src/bar-rating.cc:201 src/bar-rating.cc:204
 msgid "Unrated"
-msgstr "Sin calificar"
+msgstr "Sin valorar"
 
 #: src/bar-sort.cc:444 src/bar-sort.cc:447
 msgid "Sort Manager Operations"
@@ -775,7 +776,7 @@ msgstr ""
 
 #: src/cache-maint.cc:88
 msgid "Geeqie: Creating sim data..."
-msgstr "Geeqie: Creando datos sim..."
+msgstr "Geeqie: Creando caché de sim..."
 
 #: src/cache-maint.cc:94
 msgid "Geeqie: Creating thumbs..."
@@ -818,7 +819,7 @@ msgstr "Mantenimiento"
 #: src/search.cc:3762 src/ui-fileops.cc:118 src/utilops.cc:2097
 #: src/utilops.cc:2144 src/utilops.cc:2766
 msgid "Close"
-msgstr "Cerca"
+msgstr "Cerrar"
 
 #: src/cache-maint.cc:409 src/cache-maint.cc:911 src/cache-maint.cc:1184
 #: src/cache-maint.cc:1553 src/dupe.cc:4804 src/preferences.cc:3222
@@ -926,7 +927,7 @@ msgstr "Mantenimiento de caché"
 
 #: src/cache-maint.cc:1729
 msgid "Cache and Data Maintenance"
-msgstr "Mantenimiento de caché y datos"
+msgstr "Mantenimiento de Caché y Datos"
 
 #: src/cache-maint.cc:1733
 msgid "Geeqie thumbnail and sim. cache"
@@ -966,7 +967,7 @@ msgstr "Generar miniaturas para una carpeta específica."
 
 #: src/cache-maint.cc:1778
 msgid "File similarity cache"
-msgstr "Borrar la caché de similitudes"
+msgstr "Borrar caché de similitudes"
 
 #: src/cache-maint.cc:1782
 msgid "Create"
@@ -1261,7 +1262,7 @@ msgstr "Copiar ruta sin comillas"
 #: src/layout-util.cc:2664 src/pan-view/pan-view.cc:2416 src/search.cc:1200
 #: src/view-file/view-file.cc:729
 msgid "Move to Trash..."
-msgstr "Mover a la Papelera..."
+msgstr "Mandar a la Papelera..."
 
 #: src/collect-table.cc:1063 src/dupe.cc:3562 src/img-view.cc:1450
 #: src/layout-image.cc:860 src/pan-view/pan-view.cc:2420 src/search.cc:1204
@@ -1291,7 +1292,7 @@ msgstr "M_ostrar nombres de archivo"
 #: src/collect-table.cc:1077 src/view-file/view-file.cc:785
 #: src/view-file/view-file.cc:789
 msgid "Show star rating"
-msgstr "Ver calificación"
+msgstr "Ver valoración"
 
 #: src/collect-table.cc:1080
 msgid "_Save collection"
@@ -1369,7 +1370,7 @@ msgid ""
 "Unable to delete file:\n"
 "%s"
 msgstr ""
-"No se pudo borrar el archivo:\n"
+"No se ha podido borrar el archivo:\n"
 "%s"
 
 #: src/desktop-file.cc:315 src/ui-pathsel.cc:494 src/utilops.cc:2245
@@ -1394,7 +1395,7 @@ msgid ""
 "About to delete the file:\n"
 " %s"
 msgstr ""
-"A punto de borrar el archivo:\n"
+"Sobre el borrado de archivo:\n"
 "%s"
 
 #: src/desktop-file.cc:397
@@ -1825,7 +1826,7 @@ msgstr "promedio"
 
 #: src/exif.cc:166
 msgid "center weighted"
-msgstr "ponderado al centro"
+msgstr "centrado"
 
 #: src/exif.cc:167
 msgid "spot"
@@ -2094,7 +2095,7 @@ msgstr "Descripción de la imagen"
 
 #: src/exif.cc:324
 msgid "Camera make"
-msgstr "Marca de la cámara"
+msgstr "Marca de cámara"
 
 #: src/exif.cc:325
 msgid "Camera model"
@@ -2529,7 +2530,7 @@ msgstr "%.1f GiB"
 
 #: src/filedata/filedata.cc:2826
 msgid "file or directory does not exist"
-msgstr "el archivo o directorio no existe"
+msgstr "archivo o directorio no existe"
 
 #: src/filedata/filedata.cc:2832
 msgid "destination already exists"
@@ -3015,7 +3016,7 @@ msgstr "Diseño"
 
 #: src/layout.cc:2794
 msgid "Invalid geometry\n"
-msgstr "Geometría no válida\n"
+msgstr "Posición no válida\n"
 
 #: src/layout-config.cc:72 src/ui-pathsel.cc:1159
 msgid "Files"
@@ -3089,7 +3090,7 @@ msgstr ""
 
 #: src/layout-util.cc:619
 msgid "Operation failed:\n"
-msgstr "La operación ha fallado:\n"
+msgstr "Error de operación:\n"
 
 #: src/layout-util.cc:622
 msgid "No file extension\n"
@@ -3168,7 +3169,7 @@ msgstr "Posición original de la imagen"
 # Cambia al un directorio anteriormente seleccionado si existe. No es la orden para ver la imagen anterior de la lista.
 #: src/layout-util.cc:2638
 msgid "_Back"
-msgstr "U_bicación anterior"
+msgstr "Volver"
 
 #: src/layout-util.cc:2638
 msgid "Back in folder history"
@@ -3176,7 +3177,7 @@ msgstr "Recorrer hacia atrás el historial"
 
 #: src/layout-util.cc:2639
 msgid "Clear Marks..."
-msgstr "Borrar las marcas..."
+msgstr "Borrar marcas..."
 
 #: src/layout-util.cc:2641
 msgid "_Color Management"
@@ -3184,7 +3185,7 @@ msgstr "Gestión de _color"
 
 #: src/layout-util.cc:2642 src/layout-util.cc:2643
 msgid "Connected Zoom 1:1"
-msgstr "Zum a 1:1 conectado"
+msgstr "Tamaño original 1:1"
 
 #: src/layout-util.cc:2644 src/layout-util.cc:2773
 msgid "Zoom _2:1"
@@ -3192,11 +3193,11 @@ msgstr "Aumentar _200%"
 
 #: src/layout-util.cc:2644
 msgid "Connected Zoom 2:1"
-msgstr "Zum 2:1 conectado"
+msgstr "Ampliación actual 2:1"
 
 #: src/layout-util.cc:2645
 msgid "Connected Zoom 1:4"
-msgstr "Zum 1:4 conectado"
+msgstr "Ampliación actual 1:4"
 
 #: src/layout-util.cc:2646 src/layout-util.cc:2775
 msgid "Zoom _3:1"
@@ -3204,11 +3205,11 @@ msgstr "Aumentar _300%"
 
 #: src/layout-util.cc:2646
 msgid "Connected Zoom 3:1"
-msgstr "Zum 3:1 conectado"
+msgstr "Ampliación actual 3:1"
 
 #: src/layout-util.cc:2647
 msgid "Connected Zoom 1:3"
-msgstr "Zum 1:3 conectado"
+msgstr "Ampliación actual 1:3"
 
 #: src/layout-util.cc:2648 src/layout-util.cc:2777
 msgid "Zoom _4:1"
@@ -3216,11 +3217,11 @@ msgstr "Aumentar _400%"
 
 #: src/layout-util.cc:2648
 msgid "Connected Zoom 4:1"
-msgstr "Zum 4:1 conectado"
+msgstr "Ampliación actual 4:1"
 
 #: src/layout-util.cc:2649
 msgid "Connected Zoom 1:2"
-msgstr "Zum 1:2 conectado"
+msgstr "Ampliación actual 1:2"
 
 #: src/layout-util.cc:2650 src/layout-util.cc:2779
 msgid "Fit _Horizontally"
@@ -3236,7 +3237,7 @@ msgstr "Ajustar _verticalmente"
 
 #: src/layout-util.cc:2651
 msgid "Connected Fit Vertically"
-msgstr "Encajar verticalmente conectado"
+msgstr "Aplicado Ajustar Verticalmente"
 
 #: src/layout-util.cc:2652 src/layout-util.cc:2653 src/layout-util.cc:2781
 #: src/layout-util.cc:2782
@@ -3245,19 +3246,19 @@ msgstr "Aumentar hasta a_justar"
 
 #: src/layout-util.cc:2652 src/layout-util.cc:2653
 msgid "Connected Zoom to fit"
-msgstr "Zum para ajustar conectado"
+msgstr "Opción seleccionada Ajustar a ventana "
 
 #: src/layout-util.cc:2654 src/layout-util.cc:2655
 msgid "Connected Zoom in"
-msgstr "Ampliar el zum conectado"
+msgstr "Opción seleccionada Aumentar"
 
 #: src/layout-util.cc:2656
 msgid "_Connected Zoom"
-msgstr "Zum _conectado"
+msgstr "Op_ción seleccionada"
 
 #: src/layout-util.cc:2657 src/layout-util.cc:2658
 msgid "Connected Zoom out"
-msgstr "Reducir el zum conectado"
+msgstr "Opción seleccionada Disminuir"
 
 #: src/layout-util.cc:2659
 msgid "Copy..."
@@ -3341,7 +3342,7 @@ msgstr "Reflejar _verticalmente"
 
 #: src/layout-util.cc:2677
 msgid "Image Flip"
-msgstr "Voltear Imagen"
+msgstr "Reflejado de Imagen"
 
 # Cambia al directorio siguiente de los que se han ido visitando, si existe. No es la orden para ver la imagen siguiente de la lista.
 #: src/layout-util.cc:2678
@@ -3447,7 +3448,7 @@ msgstr "Anterior imagen"
 
 #: src/layout-util.cc:2694
 msgid "Back in image history"
-msgstr "Ir hacia atrás"
+msgstr "Volver atrás en el historial"
 
 #: src/layout-util.cc:2695
 msgid "Image Forward"
@@ -3455,7 +3456,7 @@ msgstr "Siguiente imagen"
 
 #: src/layout-util.cc:2695
 msgid "Forward in image history"
-msgstr "Recorrer historial hacia adelante"
+msgstr "Siguiente en el historial"
 
 #: src/layout-util.cc:2696
 msgid "_Cycle through overlay modes"
@@ -4071,7 +4072,7 @@ msgstr "Ver imágenes como iconos"
 
 #: src/layout-util.cc:2817
 msgid "Images as _List"
-msgstr "Ver imágenes como una _Lista"
+msgstr "Ver imágenes como _Lista"
 
 #: src/layout-util.cc:2817
 msgid "View Images as List"
@@ -4486,36 +4487,32 @@ msgstr ""
 #: src/main.cc:543
 msgid "  -s, --slideshow                  start in slideshow mode\n"
 msgstr ""
-"  -s, --slideshow                    comenzar en modo de pase de "
+"  -s, --slideshow                    comenzar en modo pase de "
 "diapositivas\n"
 
 #: src/main.cc:544
 msgid "  +t, --with-tools                 force show of tools\n"
-msgstr ""
-"  +t, --with-tools                   forzar que se vean las herramientas\n"
+msgstr "  +t, --with-tools                   forzar ver herramientas\n"
 
 #: src/main.cc:545
 msgid "  -t, --without-tools              force hide of tools\n"
-msgstr ""
-"  -t, --without-tools                forzar que se oculten las herramientas\n"
+msgstr "  -t, --without-tools                forzar ocultar herramientas\n"
 
 #: src/main.cc:546
 msgid "  -v, --version                    print version info\n"
-msgstr ""
-"  -v, --version                      mostrar información de la versión\n"
+msgstr "  -v, --version                      mostrar información de versión\n"
 
 #: src/main.cc:547
 msgid "  +w, --show-log-window            show log window\n"
-msgstr "  +w, --show-log-window              mostrar la ventana del registro\n"
+msgstr "  +w, --show-log-window              mostrar ventana del registro\n"
 
 #: src/main.cc:549
 msgid "      --debug[=level]              turn on debug output\n"
-msgstr ""
-"  --debug[=nivel]                    activar los mensajes de depuración\n"
+msgstr "  --debug[=nivel]                    activar mensajes de depuración\n"
 
 #: src/main.cc:550
 msgid "  -g:, --grep:<regexp>             filter debug output\n"
-msgstr "  -g:, --grep:<regexp>       filtrar la salida de depuración\n"
+msgstr "  -g:, --grep:<regexp>       filtrar salida de depuración\n"
 
 #: src/main.cc:808
 msgid "Cannot load "
@@ -4617,7 +4614,7 @@ msgstr "Ordenar por clase"
 
 #: src/menu.cc:265 src/menu.cc:274
 msgid "Zoom to original size"
-msgstr "Hacer zum al tamaño original"
+msgstr "Ampliar a tamaño original"
 
 #: src/menu.cc:268 src/preferences.cc:2343
 msgid "Fit image to window"
@@ -4625,7 +4622,7 @@ msgstr "Ajustar a tamaño de ventana"
 
 #: src/menu.cc:271
 msgid "Leave Zoom at previous setting"
-msgstr "Volver al tamaño anterior"
+msgstr "Volver al nivel de ampliación anterior"
 
 #: src/menu.cc:344
 msgid "Rotate clockwise 90°"
@@ -5231,7 +5228,7 @@ msgstr "Buscar"
 
 #: src/pan-view/pan-view-search.cc:127
 msgid "path found"
-msgstr "path encontrado"
+msgstr "ruta encontrada"
 
 #: src/pan-view/pan-view-search.cc:127
 msgid "filename found"
@@ -5374,7 +5371,7 @@ msgid ""
 "This will reset the file filters to the defaults.\n"
 "Continue?"
 msgstr ""
-"Esto reiniciará los filtros de archivos a lo predeterminado.\n"
+"Esto reiniciará los filtros de archivos al modo inicial.\n"
 "¿Quiere continuar?"
 
 #: src/preferences.cc:1436 src/preferences.cc:1439
@@ -5580,6 +5577,9 @@ msgid ""
 "The Hide Selectable Bars menu item (default keystroke is control-backtick) "
 "will toggle the display of the bars selected here"
 msgstr ""
+"La opción de menú  Ocultar Barras Seleccionadas (teclas por defecto control+re"
+"troceso) "
+"permite conmutar las barras seleccionadas que se verán"
 
 #: src/preferences.cc:2232
 msgid "AppImage updates notifications"
@@ -5648,7 +5648,7 @@ msgstr ""
 #: src/preferences.cc:2330
 msgid "Two pass rendering (apply HQ zoom and color correction in second pass)"
 msgstr ""
-"Visualización en dos pasos (aplicar nivel de aumento de alta calidad y la corr"
+"Visualización en dos pasos (aplicar nivel de aumento de alta calidad y corr"
 "ección "
 "de color en un segundo paso)"
 
@@ -5672,7 +5672,7 @@ msgid ""
 "window\". This value sets the maximum expansion permitted in percent i.e. "
 "100% is full-size."
 msgstr ""
-"Actívelo para permitir que Geeqie incremente el tamaño de las imágenes más "
+"Active esto para permitir que Geeqie incremente el tamaño de las imágenes más "
 "pequeñas que el área de visión actual cuando el zum esté en «Ajustar la "
 "imagen a la ventana». Este valor establece la expansión máxima permitida en "
 "porcentaje, es decir que 100% es el tamaño real."
@@ -5708,7 +5708,7 @@ msgstr "Píxeles"
 
 #: src/preferences.cc:2366
 msgid "(Requires restart)"
-msgstr "(necesita reiniciarse)"
+msgstr "(Requiere reiniciar)"
 
 #: src/preferences.cc:2369
 msgid ""
@@ -5854,6 +5854,8 @@ msgid ""
 "Separator shown only if both fields are non-null:\n"
 "%formatted.ShutterSpeed%|%formatted.ISOSpeedRating%"
 msgstr ""
+"Se mostrarán separadores solo si ambos campos no están vacíos:\n"
+"%formatted.ShutterSpeed%|%formatted.ISOSpeedRating%"
 
 #: src/preferences.cc:2613
 msgid "Field maximum length"
@@ -5873,6 +5875,9 @@ msgid ""
 "%formatted.Aperture:F no. * setting%\n"
 " %formatted.Aperture:10:F no. * setting%"
 msgstr ""
+"Se mostrará texto solo si el campo no está vacío:\n"
+"%formatted.Aperture:F no. * setting%\n"
+" %formatted.Aperture:10:F no. * setting%"
 
 #: src/preferences.cc:2631
 #, fuzzy
@@ -5954,6 +5959,8 @@ msgid ""
 "When writing metadata, Geeqie will follow these steps, if selected. This "
 "process will stop when the first successful write occurs."
 msgstr ""
+"Cuando los metadatos son escritos, Geeqie sigue estos pasos, seleccionados. "
+"Este proceso termina cuando se escriben con éxito la primera vez."
 
 #: src/preferences.cc:2920
 msgid "A flowchart of the sequence is shown in the Help file"
@@ -6093,6 +6100,12 @@ msgid ""
 "Note: If this option is not checked, the results of orientation commands "
 "will be lost when Geeqie closes"
 msgstr ""
+"Si está marcado, los parámetros de los comandos de orientación (Rotación, Refl"
+"ejo "
+", Voltear) serán escritos a los metadatos\n"
+"Nota: Si esta opción no está marcada, dichos parámetros de los comandos de ori"
+"entación "
+"se perderán al cerrar Geeqie"
 
 #: src/preferences.cc:3000
 msgid "Auto-save options"
@@ -6100,7 +6113,7 @@ msgstr "Opciones de autoguardado"
 
 #: src/preferences.cc:3002
 msgid "Write metadata after timeout"
-msgstr "Guardar metadatos después de un tiempo"
+msgstr "Guardar metadatos cada"
 
 #: src/preferences.cc:3007
 msgid "Timeout (seconds):"
@@ -6108,7 +6121,7 @@ msgstr "Tiempo límite (segundos):"
 
 #: src/preferences.cc:3009
 msgid "Write metadata on image change"
-msgstr "Grabar los metadatos al cambiar de imagen"
+msgstr "Guardar los metadatos al cambiar de imagen"
 
 #: src/preferences.cc:3011
 msgid "Write metadata on directory change"
@@ -6916,7 +6929,7 @@ msgstr "obtener coordenadas rectangulares"
 
 #: src/remote.cc:1751
 msgid "get render intent"
-msgstr "previsualizar"
+msgstr "intentar renderizar"
 
 #: src/remote.cc:1752
 msgid "get list of selected files"
@@ -7270,7 +7283,7 @@ msgstr "y"
 
 #: src/search.cc:3469
 msgid "File date is"
-msgstr "Fecha del archivo"
+msgstr "Fecha de archivo"
 
 #: src/search.cc:3487
 msgid "Modified"
@@ -7721,7 +7734,7 @@ msgstr "Elegir la carpeta de destino."
 
 #: src/utilops.cc:1682 src/utilops.cc:1686
 msgid "With Rename"
-msgstr "Con renombrado"
+msgstr "Con Renombrado"
 
 #: src/utilops.cc:1758
 msgid "New name"
@@ -7967,7 +7980,7 @@ msgstr "Subcarpetas:"
 
 #: src/utilops.cc:2796
 msgid "Delete folder?"
-msgstr "¿Quiere borrar la carpeta?"
+msgstr "¿Borrar carpeta?"
 
 #: src/utilops.cc:2797
 msgid "The folder contains these files:"
@@ -7983,7 +7996,7 @@ msgstr ""
 
 #: src/utilops.cc:2927
 msgid "Rename folder?"
-msgstr "¿Quiere renombrar la carpeta?"
+msgstr "¿Renombrar carpeta?"
 
 #: src/utilops.cc:2928
 msgid "The folder contains the following files"
@@ -7995,11 +8008,11 @@ msgstr "Crear carpeta"
 
 #: src/utilops.cc:2972
 msgid "Create folder?"
-msgstr "¿Quiere crear la carpeta?"
+msgstr "¿Crear carpeta?"
 
 #: src/utilops.cc:2975
 msgid "Can't create folder"
-msgstr "No se puede crear la carpeta"
+msgstr "No se ha podido crear la carpeta"
 
 #: src/view-dir.cc:471
 msgid "_Copy"
@@ -8023,11 +8036,11 @@ msgstr "Pase de diapositivas _recursivo"
 
 #: src/view-dir.cc:800
 msgid "Find _duplicates..."
-msgstr "Bus_car duplicados..."
+msgstr "Encontrar duplicados..."
 
 #: src/view-dir.cc:802
 msgid "Find duplicates recursive..."
-msgstr "Buscar duplicados recursivamente..."
+msgstr "Encontrar duplicados de manera recursiva..."
 
 #: src/view-dir.cc:807
 msgid "_New folder..."
@@ -8035,15 +8048,15 @@ msgstr "N_ueva carpeta..."
 
 #: src/view-dir.cc:824
 msgid "View as _List"
-msgstr "Ver como _lista"
+msgstr "Vista de _lista"
 
 #: src/view-dir.cc:827
 msgid "View as _Tree"
-msgstr "Ver como árbol (_T)"
+msgstr "Vis_ta de árbol"
 
 #: src/view-dir.cc:848
 msgid "Show _hidden files"
-msgstr "Mostrar los arc_hivos ocultos"
+msgstr "Mostrar arc_hivos ocultos"
 
 #: src/view-dir.cc:851 src/view-file/view-file.cc:794
 msgid "Re_fresh"
@@ -8051,19 +8064,19 @@ msgstr "_Actualizar"
 
 #: src/view-file/view-file.cc:764
 msgid "Images as List"
-msgstr "Ver imágenes como Lista"
+msgstr "Vista de Lista"
 
 #: src/view-file/view-file.cc:767
 msgid "Images as Icons"
-msgstr "Ver imágenes como Iconos"
+msgstr "Vista como Iconos"
 
 #: src/view-file/view-file.cc:773
 msgid "Show _thumbnails"
-msgstr "_Mostrar las miniaturas"
+msgstr "_Mostrar miniaturas"
 
 #: src/view-file/view-file.cc:917
 msgid "Mark text"
-msgstr "Texto de la marca"
+msgstr "Marca de texto"
 
 #: src/view-file/view-file.cc:920
 msgid "Set mark text"
@@ -8108,7 +8121,7 @@ msgstr "Error al renombrar archivo"
 
 #: src/view-file/view-file-list.cc:2179
 msgid "NameStars"
-msgstr "Nombre comienza"
+msgstr "NombreComienza"
 
 #: src/view-file/view-file-list.cc:2183
 msgid "Stars"
@@ -9297,5 +9310,3 @@ msgstr "Términos de búsqueda:"
 
 #~ msgid "New folder - Geeqie"
 #~ msgstr "Nueva carpeta - Geeqie"
-
-
